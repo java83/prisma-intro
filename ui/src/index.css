@@ -1,0 +1,14 @@
+.center {
+    text-align: center;
+    color: #3548f5;
+}
+h2{
+    color: red;
+}
+.flex-container {
+    background-color: #20ffff;
+    /*margin: 10px;*/
+    padding: 20px;
+    margin: 1em;
+
+}
